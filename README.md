@@ -26,11 +26,10 @@
 <div>
 <br><br><br><br>
 
-<div align="right" width="38%" >
-<img 
+<img align="right" width="38%"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
      alt="Most Used Languages" />
-</div>
+ <img align="right" width="38%" src="/glitch-crypto.gif" alt="Tech Avatar" style="border-radius: 50%; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 
 <!-- FANCY ABOUT ME SECTION -->
 
