@@ -36,15 +36,12 @@
           Minor in Finance & Management @ <b>SPJIMR</b></span>
         </div>
         <br />
-        <div><b> Research Intern:</b><br/>
-          <span style="color:#CCCCCC;">AI-based Diabetic Foot Detection<br/><i>SPIT x KEM Hospital</i></span>
-        </div>
-        <br />
         <div><b> Professional Experience:</b><br/>
           <ul style="margin-left: -20px; padding-left: 20px;">
             <li><b>Lead Developer</b> – AI Productivity App (Focus Engine, Attention Analytics)</li>
+            <li><b> Research Intern</b> – AI-based Diabetic Foot Detection (SPIT x KEM Hospitals)</li>
             <li><b>Tech Intern</b> @ NKCCA – LMS using Flutter + Firebase + AWS IVS</li>
-            <li><b>Developer Intern</b> @ Sattvastha.AI – Mental Health App w/ Adaptive UX</li>
+            <li><b>Developer Intern</b> @ Sattvastha.AI – Mental Health LLM</li>
             <li><b>Freelancer</b> – Labor Market App (Multilingual + Geo-Matching)</li>
           </ul>
         </div>
@@ -54,7 +51,6 @@
             <li><b>Patent Holder</b> – "PETHUB: Integrated Pet Care System" <code style="color:#00C4CC;">(Published Jan 2025)</code></li>
           </ul>
         </div>
-        <br />
         <div><b> Interests:</b><br/>
           Passionate about <b>HealthTech</b>, <b>Behavioral AI</b>, and <b>Social Impact</b><br/>
           through <code>Tech × Innovation</code>
