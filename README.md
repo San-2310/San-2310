@@ -25,7 +25,7 @@
 
 <!-- FLOATING TECH CARDS -->
 <div>
-<br><br>
+<br><br><br><br>
 
 <img align="right" width="38%" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
@@ -144,9 +144,9 @@
         <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
           <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #F77737;">PetHub</h3>
           <div align="center">
-<!--             <a href="https://github.com/San-2310/PetHub" target="_blank">
+            <a href="https://github.com/San-2310/PetHub" target="_blank">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=PetHub&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="PetHub Project"/>
-            </a> -->
+            </a>
             <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #3776AB; background: rgba(55, 118, 171, 0.1); padding: 3px 6px; border-radius: 4px;">ML</code> <code style="color: #F7DF1E; background: rgba(247, 223, 30, 0.1); padding: 3px 6px; border-radius: 4px;">QR Codes</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">GenAI</code></p>
             <p style="text-align: justify; font-size: 14px;">Integrated pet care platform leveraging ML and GenAI for intelligent healthcare, nutrition tracking, and wellness management</p>
           </div>
