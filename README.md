@@ -54,13 +54,6 @@
             <li><b>Patent Holder</b> – "PETHUB: Integrated Pet Care System" <code style="color:#00C4CC;">(Published Jan 2025)</code></li>
           </ul>
         </div>
-        <div><b> Tech Stack:</b><br/>
-          <code style="color:#6C63FF;">Flutter</code>,
-          <code style="color:#FFCA28;">Firebase</code>,
-          <code style="color:#00C4CC;">React Native</code>,
-          <code style="color:#FF5733;">Node.js</code>,
-          <code style="color:#4EA94B;">MongoDB</code>
-        </div>
         <br />
         <div><b> Interests:</b><br/>
           Passionate about <b>HealthTech</b>, <b>Behavioral AI</b>, and <b>Social Impact</b><br/>
