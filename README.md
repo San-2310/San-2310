@@ -26,9 +26,11 @@
 <div>
 <br><br><br><br>
 
-<img align="right" width="38%" 
+<div align="right" width="38%" >
+<img 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
      alt="Most Used Languages" />
+</div>
 
 <!-- FANCY ABOUT ME SECTION -->
 
