@@ -28,97 +28,54 @@
   <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Most Used Languages" />
   
   <!-- ABOUT ME SECTION WITH FUTURISTIC DESIGN -->
-  <!-- ABOUT ME SECTION WITH FUTURISTIC STYLE -->
-<div align="center">
+ <!-- ENHANCED ABOUT ME SECTION -->
+<div align="left" width="100%">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25" height="25" alt="👨‍💻" />
-    <span style="background: linear-gradient(to right, #6C63FF, #F77737); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">ABOUT ME</span>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25" height="25" alt="👨‍💻" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=6C63FF&vCenter=true&random=false&width=435&lines=ABOUT+ME+%7C%7C+SYS.INIT();" alt="About Me" />
   </h2>
-</div>
-
-<table align="center" border="0">
-  <tr>
-    <td width="50%" align="right">
-      <div style="font-family: 'Jetbrains Mono', monospace; background: rgba(108, 99, 255, 0.1); padding: 15px; border-radius: 10px 0 0 10px; border-left: 4px solid #6C63FF;">
-        <p>🎓 Computer Engineering @</p>
-        <p>📊 Finance & Management Minor @</p>
-        <p>🔬 Research Intern working on</p>
-        <p>🏆 10x Hackathon Winner including</p>
-        <p>📱 Expert in</p>
+  
+  <!-- Animated Gradient Card -->
+  <div style="background: linear-gradient(45deg, rgba(108, 99, 255, 0.1), rgba(247, 119, 55, 0.1)); border-radius: 16px; padding: 20px; border: 1px solid rgba(108, 99, 255, 0.3); box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <span style="font-size: 24px; margin-right: 10px;">🎓</span>
+      <div>
+        <span style="font-weight: 700; color: #6C63FF;">EDUCATION:</span> Computer Engineering @ <span style="color: #F77737; font-weight: 600;">SPIT Mumbai</span> [<span style="color: #00C4CC;">CGPA: 9.51/10.0</span>]<br>
+        <span style="font-size: 14px; opacity: 0.8;">+ Finance & Management Minor @ SPJIMR</span>
       </div>
-    </td>
-    <td width="50%" align="left">
-      <div style="font-family: 'Jetbrains Mono', monospace; background: rgba(247, 119, 55, 0.1); padding: 15px; border-radius: 0 10px 10px 0; border-left: 4px solid #F77737;">
-        <p><b>SPIT Mumbai</b> (CGPA: 9.51/10.0)</p>
-        <p><b>SPJIMR</b></p>
-        <p><b>AI-Based Diabetic Foot Detection</b></p>
-        <p><b>Smart India Hackathon 2024</b></p>
-        <p><b>Flutter, Firebase, React Native</b> and <b>Full-Stack Development</b></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="right">
-      <div style="font-family: 'Jetbrains Mono', monospace; background: rgba(108, 99, 255, 0.1); padding: 15px; border-radius: 10px 0 0 10px; border-left: 4px solid #6C63FF;">
-        <p>🧠 Building solutions using</p>
-        <p>📄 Co-inventor of a published patent titled</p>
-        <p>🚀 Creating impact in</p>
-      </div>
-    </td>
-    <td width="50%" align="left">
-      <div style="font-family: 'Jetbrains Mono', monospace; background: rgba(247, 119, 55, 0.1); padding: 15px; border-radius: 0 10px 10px 0; border-left: 4px solid #F77737;">
-        <p><b>AI, ML, IoT</b> and <b>Cloud Technologies</b></p>
-        <p><b>"PETHUB"</b></p>
-        <p><b>HealthTech, Mental Health, and Education</b></p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<!-- ANIMATED SKILLS BAR -->
-<div align="center">
-  <h3>💻 Tech Proficiency</h3>
-  <div style="background: rgba(108, 99, 255, 0.1); border-radius: 10px; padding: 10px; margin: 10px 0;">
-    <div style="display: flex; align-items: center; margin: 5px 0;">
-      <span style="width: 120px; text-align: right; margin-right: 10px;">Flutter</span>
-      <div style="background: #1a1a1a; height: 8px; width: 60%; border-radius: 5px; margin: 0 10px;">
-        <div style="background: linear-gradient(to right, #6C63FF, #F77737); height: 8px; width: 95%; border-radius: 5px;"></div>
-      </div>
-      <span>95%</span>
     </div>
-    <div style="display: flex; align-items: center; margin: 5px 0;">
-      <span style="width: 120px; text-align: right; margin-right: 10px;">Firebase</span>
-      <div style="background: #1a1a1a; height: 8px; width: 60%; border-radius: 5px; margin: 0 10px;">
-        <div style="background: linear-gradient(to right, #6C63FF, #F77737); height: 8px; width: 90%; border-radius: 5px;"></div>
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <span style="font-size: 24px; margin-right: 10px;">🔬</span>
+      <div>
+        <span style="font-weight: 700; color: #6C63FF;">RESEARCH:</span> AI-Based Diabetic Foot Detection System<br>
+        <span style="font-size: 14px; opacity: 0.8;">+ Patent Co-inventor: "PETHUB" [Publication #IN20230137]</span>
       </div>
-      <span>90%</span>
     </div>
-    <div style="display: flex; align-items: center; margin: 5px 0;">
-      <span style="width: 120px; text-align: right; margin-right: 10px;">AI/ML</span>
-      <div style="background: #1a1a1a; height: 8px; width: 60%; border-radius: 5px; margin: 0 10px;">
-        <div style="background: linear-gradient(to right, #6C63FF, #F77737); height: 8px; width: 85%; border-radius: 5px;"></div>
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <span style="font-size: 24px; margin-right: 10px;">📱</span>
+      <div>
+        <span style="font-weight: 700; color: #6C63FF;">EXPERTISE:</span> Full-Stack Development & Mobile Engineering<br>
+        <span style="font-size: 14px; opacity: 0.8;">+ Flutter, Firebase, React Native, ML/AI Integration</span>
       </div>
-      <span>85%</span>
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <span style="font-size: 24px; margin-right: 10px;">🏆</span>
+      <div>
+        <span style="font-weight: 700; color: #6C63FF;">VICTORIES:</span> 10x Hackathon Winner<br>
+        <span style="font-size: 14px; opacity: 0.8;">+ Smart India Hackathon 2024 Champion | K! Hacks 2.0 Winner</span>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <span style="font-size: 24px; margin-right: 10px;">🚀</span>
+      <div>
+        <span style="font-weight: 700; color: #6C63FF;">MISSION:</span> Creating Impact in HealthTech, Mental Health & EdTech<br>
+        <span style="font-size: 14px; opacity: 0.8;">+ Building solutions using AI, ML, IoT and Cloud Technologies</span>
+      </div>
     </div>
   </div>
-</div>
-
-<!-- CURRENT FOCUS SECTION WITH CYBERPUNK STYLE -->
-<div align="center">
-  <h3>🔮 Current Focus</h3>
-  <table border="0" align="center">
-    <tr>
-      <td>
-        <div style="background: linear-gradient(145deg, rgba(108, 99, 255, 0.1), rgba(247, 119, 55, 0.1)); border-radius: 10px; padding: 15px; border: 1px solid rgba(108, 99, 255, 0.3); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2);">
-          <p align="center">📱 <b>Developing a new-gen health monitoring system with Flutter & TensorFlow</b></p>
-          <p align="center">🔍 <b>Researching innovative applications of AI in healthcare</b></p>
-          <p align="center">🌟 <b>Exploring entrepreneurial opportunities in HealthTech</b></p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+  
+  <!-- Terminal-style Quote -->
+  <div style="background: rgba(13, 17, 23, 0.8); border-radius: 6px; padding: 12px; margin-top: 15px; border-left: 3px solid #6C63FF; font-family: 'Fira Code', monospace;">
+    <span style="color: #6C63FF;">$</span> <span style="color: #F77737;">echo</span> <span style="color: #00C4CC;">"Transforming ideas
 <br clear="both" />
 
 <!-- TECH STACK SECTION -->
