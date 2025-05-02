@@ -26,7 +26,7 @@
 <!-- FANCY ABOUT ME SECTION -->
 <h2 style="font-family: 'JetBrains Mono', monospace; color: #F77737;">🚀 About Me</h2>
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 300px; max-width: 55%;">
     <div style="background: rgba(13,17,23,0.7); border-radius: 16px; padding: 20px; border: 1px solid rgba(255,255,255,0.1); font-size: 15px; line-height: 1.8;">
       <div><b>🎓 Education:</b><br/><span style="color:#CCCCCC;">Computer Engineering @ <b>SPIT Mumbai</b> <code style="color:#6C63FF;">(CGPA: 9.51/10)</code><br/>Minor in Finance & Management @ <b>SPJIMR</b></span></div>
       <div><b>🔬 Research Intern:</b><br/><span style="color:#CCCCCC;">AI-based Diabetic Foot Detection<br/><i>SPIT x KEM Hospital</i></span></div>
@@ -54,15 +54,12 @@
       <div><b>❤️ Interests:</b><br/>Passionate about <b>HealthTech</b>, <b>Behavioral AI</b>, and <b>Social Impact</b><br/>through <code>Tech × Innovation</code></div>
     </div>
   </div>
-  <div style="flex: 0 0 300px; display: flex; flex-direction: column; align-items: center; gap: 20px; margin-left: 20px;">
+  <div style="flex: 0 0 40%; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Most Used Languages" style="width: 100%; border-radius: 12px;" />
-    <img src="/glitch-crypto.gif" alt="Tech Avatar" style="width: 140px; height: 140px; border-radius: 50%; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+    <img src="/glitch-crypto.gif" alt="Tech Avatar" style="width: 120px; height: 120px; border-radius: 50%; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
   </div>
 </div>
 <br clear="both" />
-
-
-
 
 <!-- TECH STACK SECTION -->
 <h2 align="center">🔧 <span style="background: linear-gradient(to right, #6C63FF, #F77737); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">TECHNOLOGY ARSENAL</span></h2>
