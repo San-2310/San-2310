@@ -25,7 +25,7 @@
 
 <!-- FLOATING TECH CARDS -->
 <div>
-  <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Most Used Languages" />
+  <img align="right" style="margin-top: 20px;" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Most Used Languages" />
     <!-- ABOUT ME SECTION -->
   <div align="left" width="55%">
     <h2>👨‍💻 About Me</h2>
