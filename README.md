@@ -11,6 +11,11 @@
 </h1>
 
 <div align="center">
+    <img src="/grid-snake.svg" alt="Sanjeev Ratnani"
+         style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=San-2310&style=for-the-badge&color=6C63FF" alt="Profile Views" />
   <a href="https://github.com/San-2310?tab=followers">
     <img src="https://img.shields.io/github/followers/San-2310?style=for-the-badge&color=F77737" alt="Followers" />
