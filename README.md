@@ -25,19 +25,19 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="display: flex; justify-content: space-between;">
  <div style="display: flex; align-items: flex-start;">
-  <!-- FANCY ABOUT ME SECTION -->
-  <div align="left" style="flex: 1; width: 50%;">
+ <!-- FANCY GITHUB PROFILE LAYOUT -->
+<div style="display: flex; align-items: flex-start; width: 100%;">
+  <!-- ABOUT ME SECTION (LEFT) -->
+  <div style="width: 60%; padding-right: 20px;">
     <h2 style="font-family: 'JetBrains Mono', monospace; color: #F77737;">🚀 About Me</h2>
     <div style="display: flex; flex-direction: column; gap: 16px; background: rgba(13, 17, 23, 0.7); border-radius: 16px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.1); font-size: 15px; line-height: 1.8;">
       <div><b> Education:</b><br/>
         <span style="color:#CCCCCC;">Computer Engineering @ <b>SPIT Mumbai</b> <code style="color:#6C63FF;">(CGPA: 9.51/10)</code><br/>
         Minor in Finance & Management @ <b>SPJIMR</b></span>
       </div>
-      <br>
       <div><b> Research Intern:</b><br/>
         <span style="color:#CCCCCC;">AI-based Diabetic Foot Detection<br/><i>SPIT x KEM Hospital</i></span>
       </div>
-      <br>
       <div><b> Professional Experience:</b><br/>
         <ul style="margin-left: -20px; padding-left: 20px;">
           <li><b>Lead Developer</b> – AI Productivity App (Focus Engine, Attention Analytics)</li>
@@ -49,10 +49,9 @@
       <div><b> Achievements:</b><br/>
         <ul style="margin-left: -20px; padding-left: 20px;">
           <li><b>10x Hackathon Winner</b> incl. <code style="color:#F77737;">Smart India Hackathon 2024</code></li>
-          <li><b>Patent Holder</b> – “PETHUB: Integrated Pet Care System” <code style="color:#00C4CC;">(Published Jan 2025)</code></li>
+          <li><b>Patent Holder</b> – "PETHUB: Integrated Pet Care System" <code style="color:#00C4CC;">(Published Jan 2025)</code></li>
         </ul>
       </div>
-      <br>
       <div><b> Tech Stack:</b><br/>
         <code style="color:#6C63FF;">Flutter</code>,
         <code style="color:#FFCA28;">Firebase</code>,
@@ -60,22 +59,27 @@
         <code style="color:#FF5733;">Node.js</code>,
         <code style="color:#4EA94B;">MongoDB</code>
       </div>
-      <br>
       <div><b> Interests:</b><br/>
         Passionate about <b>HealthTech</b>, <b>Behavioral AI</b>, and <b>Social Impact</b><br/>
         through <code>Tech × Innovation</code>
       </div>
     </div>
   </div>
-
-  <!-- Image Container on the Right -->
-  <div style="display: flex; flex-direction: column; align-items: flex-start; width: 38%; margin-left: 20px;">
+  <!-- STATS & GIF SECTION (RIGHT) -->
+  <div style="width: 40%; display: flex; flex-direction: column; gap: 20px;">
+    <!-- GitHub Stats -->
     <img width="100%" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
          alt="Most Used Languages" />
-    <img width="100%" src="/glitch-crypto.gif" alt="Tech Avatar" style="border-radius: 50%; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+    <!-- Tech Avatar GIF -->
+    <img width="100%" 
+         src="/glitch-crypto.gif" 
+         alt="Tech Avatar" 
+         style="border-radius: 10px; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
   </div>
 </div>
+
+<!-- Clear floats -->
 <br clear="both" />
 
 <!-- TECH STACK SECTION -->
