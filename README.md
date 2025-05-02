@@ -31,7 +31,7 @@
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
      alt="Most Used Languages" />
   <!-- FANCY ABOUT ME SECTION -->
-<div align="left" width="55%">
+<div align="left" width="50%">
   <h2 style="font-family: 'JetBrains Mono', monospace; color: #F77737;">🚀 About Me</h2>
   <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.1); font-size: 16px; line-height: 1.6;">
     <ul>
