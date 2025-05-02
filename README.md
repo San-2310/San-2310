@@ -23,8 +23,9 @@
 </div>
 <br />
 <div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="display: flex; justify-content: space-between;">
   <!-- FANCY ABOUT ME SECTION -->
-  <div align="left" width="40%">
+  <div align="left" style="flex: 1; width: 50%;">
     <h2 style="font-family: 'JetBrains Mono', monospace; color: #F77737;">🚀 About Me</h2>
     <div style="display: flex; flex-direction: column; gap: 16px; background: rgba(13, 17, 23, 0.7); border-radius: 16px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.1); font-size: 15px; line-height: 1.8;">
       <div><b> Education:</b><br/>
@@ -66,15 +67,14 @@
     </div>
   </div>
 
-  <!-- Images on the right -->
-  <div style="float: right;">
-    <img width="35%" 
+  <!-- Image Container on the Right -->
+  <div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; width: 38%;">
+    <img width="100%" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
          alt="Most Used Languages" />
-    <img width="30%" src="/glitch-crypto.gif" alt="Tech Avatar" style="border-radius: 50%; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+    <img width="100%" src="/glitch-crypto.gif" alt="Tech Avatar" style="border-radius: 50%; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
   </div>
 </div>
-
 <br clear="both" />
 
 <!-- TECH STACK SECTION -->
