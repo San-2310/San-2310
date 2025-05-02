@@ -40,10 +40,12 @@
       <span style="color:#CCCCCC;">Computer Engineering @ <b>SPIT Mumbai</b> <code style="color:#6C63FF;">(CGPA: 9.51/10)</code><br/>
       Minor in Finance & Management @ <b>SPJIMR</b></span>
     </div>
+    <br>
     <div><b> Research Intern:</b><br/>
       <span style="color:#CCCCCC;">AI-based Diabetic Foot Detection<br/><i>SPIT x KEM Hospital</i></span>
     </div>
-    <div><b>� Professional Experience:</b><br/>
+    <br>
+    <div><b> Professional Experience:</b><br/>
       <ul style="margin-left: -20px; padding-left: 20px;">
         <li><b>Lead Developer</b> – AI Productivity App (Focus Engine, Attention Analytics)</li>
         <li><b>Tech Intern</b> @ NKCCA – LMS using Flutter + Firebase + AWS IVS</li>
@@ -57,6 +59,7 @@
         <li><b>Patent Holder</b> – “PETHUB: Integrated Pet Care System” <code style="color:#00C4CC;">(Published Jan 2025)</code></li>
       </ul>
     </div>
+    <br>
     <div><b> Tech Stack:</b><br/>
       <code style="color:#6C63FF;">Flutter</code>,
       <code style="color:#FFCA28;">Firebase</code>,
@@ -64,6 +67,7 @@
       <code style="color:#FF5733;">Node.js</code>,
       <code style="color:#4EA94B;">MongoDB</code>
     </div>
+    <br>
     <div><b> Interests:</b><br/>
       Passionate about <b>HealthTech</b>, <b>Behavioral AI</b>, and <b>Social Impact</b><br/>
       through <code>Tech × Innovation</code>
