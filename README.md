@@ -111,7 +111,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=HealthWise_&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="HealthWise Project"/>
           </a>
           <p><strong>Flutter, Firebase, TensorFlow, Wearable Integration</strong></p>
-<!--           <p>Remote patient monitoring system with real-time health tracking, wearable integration, and AI-powered health insights</p> -->
+          <p>Remote patient monitoring system with real-time health tracking, wearable integration, and AI-powered health insights</p>
         </div>
       </td>
       <td width="50%" valign="top">
@@ -250,15 +250,7 @@
 <br />
 
 <!-- CURRENT FOCUS SECTION -->
-<h2 align="center">💡 Current Focus</h2>
-<div align="center">
-  <img src="https://progress-bar.dev/85/?title=Diabetic%20Foot%20Detection%20AI%20&width=500&color=6C63FF" alt="Project 1 Progress" />
-  <br /><br />
-  <img src="https://progress-bar.dev/70/?title=AI-Powered%20Student%20Monitoring%20App&width=500&color=F77737" alt="Project 2 Progress" />
-  <br /><br />
-  <img src="https://progress-bar.dev/60/?title=Mental%20Health%20Platform%20(Sattvastha.AI)&width=500&color=00C4CC" alt="Project 3 Progress" />
-</div>
-<br />
+
 
 <!-- CONNECT WITH ME SECTION -->
 <h2 align="center">📫 Connect With Me</h2>
