@@ -23,66 +23,67 @@
 </div>
 <br />
 
-<!-- FLOATING TECH CARDS -->
-<div>
-<br><br><br><br>
+<!-- FANCY ABOUT ME SECTION (with Avatar & Most Used Langs beside it) -->
+<h2 style="font-family: 'JetBrains Mono', monospace; color: #F77737;">🚀 About Me</h2>
 
-<img align="right" width="38%" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
-     alt="Most Used Languages" />
-<div align="right" style="margin-top: 20px;">
+<!-- FLEX ROW: ABOUT ME (LEFT) + STATS & AVATAR (RIGHT) -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
+
+  <!-- LEFT COLUMN: About Me -->
+  <div style="flex: 1; min-width: 300px;">
+    <div style="display: flex; flex-direction: column; gap: 16px; background: rgba(13, 17, 23, 0.7); border-radius: 16px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.1); font-size: 15px; line-height: 1.8;">      
+      <div><b>🎓 Education:</b><br/>
+        <span style="color:#CCCCCC;">Computer Engineering @ <b>SPIT Mumbai</b> <code style="color:#6C63FF;">(CGPA: 9.51/10)</code><br/>
+        Minor in Finance & Management @ <b>SPJIMR</b></span>
+      </div>
+      <div><b>🔬 Research Intern:</b><br/>
+        <span style="color:#CCCCCC;">AI-based Diabetic Foot Detection<br/><i>SPIT x KEM Hospital</i></span>
+      </div>
+      <div><b>👨‍💻 Professional Experience:</b><br/>
+        <ul style="margin-left: -20px; padding-left: 20px;">
+          <li><b>Lead Developer</b> – AI Productivity App (Focus Engine, Attention Analytics)</li>
+          <li><b>Tech Intern</b> @ NKCCA – LMS using Flutter + Firebase + AWS IVS</li>
+          <li><b>Developer Intern</b> @ Sattvastha.AI – Mental Health App w/ Adaptive UX</li>
+          <li><b>Freelancer</b> – Labor Market App (Multilingual + Geo-Matching)</li>
+        </ul>
+      </div>
+      <div><b>🏆 Achievements:</b><br/>
+        <ul style="margin-left: -20px; padding-left: 20px;">
+          <li><b>10x Hackathon Winner</b> incl. <code style="color:#F77737;">Smart India Hackathon 2024</code></li>
+          <li><b>Patent Holder</b> – “PETHUB: Integrated Pet Care System” <code style="color:#00C4CC;">(Published Jan 2025)</code></li>
+        </ul>
+      </div>
+      <div><b>💡 Tech Stack:</b><br/>
+        <code style="color:#6C63FF;">Flutter</code>,
+        <code style="color:#FFCA28;">Firebase</code>,
+        <code style="color:#00C4CC;">React Native</code>,
+        <code style="color:#FF5733;">Node.js</code>,
+        <code style="color:#4EA94B;">MongoDB</code>
+      </div>
+      <div><b>❤️ Interests:</b><br/>
+        Passionate about <b>HealthTech</b>, <b>Behavioral AI</b>, and <b>Social Impact</b><br/>
+        through <code>Tech × Innovation</code>
+      </div>
+    </div>
+  </div>
+
+  <!-- RIGHT COLUMN: Languages Card + Avatar -->
+  <div style="flex: 0 0 300px; display: flex; flex-direction: column; align-items: center; gap: 20px;">
     <img 
-      src="/glitch-crypto.gif" 
-      alt="Animated Avatar" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
+      alt="Most Used Languages" 
+      style="width: 100%; border-radius: 12px;"
+    />
+    <img 
+      src="https://gif-avatars.com/img/150x150/cute.gif" 
+      alt="Tech Avatar" 
       style="width: 140px; height: 140px; border-radius: 50%; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
     />
   </div>
-<!-- FANCY ABOUT ME SECTION -->
-<div align="left" width="50%">
-  <h2 style="font-family: 'JetBrains Mono', monospace; color: #F77737;">🚀 About Me</h2>
-  
- <div style="display: flex; flex-direction: column; gap: 16px; background: rgba(13, 17, 23, 0.7); border-radius: 16px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.1); font-size: 15px; line-height: 1.8;">
-       <div><b> Education:</b><br/>
-      <span style="color:#CCCCCC;">Computer Engineering @ <b>SPIT Mumbai</b> <code style="color:#6C63FF;">(CGPA: 9.51/10)</code><br/>
-      Minor in Finance & Management @ <b>SPJIMR</b></span>
-    </div>
-    <br>
-    <div><b> Research Intern:</b><br/>
-      <span style="color:#CCCCCC;">AI-based Diabetic Foot Detection<br/><i>SPIT x KEM Hospital</i></span>
-    </div>
-    <br>
-    <div><b> Professional Experience:</b><br/>
-      <ul style="margin-left: -20px; padding-left: 20px;">
-        <li><b>Lead Developer</b> – AI Productivity App (Focus Engine, Attention Analytics)</li>
-        <li><b>Tech Intern</b> @ NKCCA – LMS using Flutter + Firebase + AWS IVS</li>
-        <li><b>Developer Intern</b> @ Sattvastha.AI – Mental Health App w/ Adaptive UX</li>
-        <li><b>Freelancer</b> – Labor Market App (Multilingual + Geo-Matching)</li>
-      </ul>
-    </div>
-    <div><b> Achievements:</b><br/>
-      <ul style="margin-left: -20px; padding-left: 20px;">
-        <li><b>10x Hackathon Winner</b> incl. <code style="color:#F77737;">Smart India Hackathon 2024</code></li>
-        <li><b>Patent Holder</b> – “PETHUB: Integrated Pet Care System” <code style="color:#00C4CC;">(Published Jan 2025)</code></li>
-      </ul>
-    </div>
-    <br>
-    <div><b> Tech Stack:</b><br/>
-      <code style="color:#6C63FF;">Flutter</code>,
-      <code style="color:#FFCA28;">Firebase</code>,
-      <code style="color:#00C4CC;">React Native</code>,
-      <code style="color:#FF5733;">Node.js</code>,
-      <code style="color:#4EA94B;">MongoDB</code>
-    </div>
-    <br>
-    <div><b> Interests:</b><br/>
-      Passionate about <b>HealthTech</b>, <b>Behavioral AI</b>, and <b>Social Impact</b><br/>
-      through <code>Tech × Innovation</code>
-    </div>
-  </div>
-</div>
 
 </div>
 <br clear="both" />
+
 
 
 <!-- TECH STACK SECTION -->
