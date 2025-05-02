@@ -111,7 +111,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=HealthWise_&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="HealthWise Project"/>
           </a>
           <p><strong>Flutter, Firebase, TensorFlow, Wearable Integration</strong></p>
-          <p>Remote patient monitoring system with real-time health tracking, wearable integration, and AI-powered health insights</p>
+<!--           <p>Remote patient monitoring system with real-time health tracking, wearable integration, and AI-powered health insights</p> -->
         </div>
       </td>
       <td width="50%" valign="top">
