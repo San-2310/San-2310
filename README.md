@@ -75,7 +75,7 @@
       style="width: 100%; border-radius: 12px;"
     />
     <img 
-      src="https://gif-avatars.com/img/150x150/cute.gif" 
+      src="/glitch-crypto.gif" 
       alt="Tech Avatar" 
       style="width: 140px; height: 140px; border-radius: 50%; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
     />
