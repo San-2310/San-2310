@@ -26,56 +26,21 @@
 <!-- FLOATING TECH CARDS -->
 <div>
   <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Most Used Languages" />
-  
-  <!-- ABOUT ME SECTION WITH FUTURISTIC DESIGN -->
- <!-- ENHANCED ABOUT ME SECTION -->
-<div align="left" width="100%">
-  <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=6C63FF&vCenter=true&random=false&width=435&lines=ABOUT+ME+%7C%7C+SYS.INIT();" alt="About Me" />
-  </h2>
-  
-  <!-- Animated Gradient Card -->
-  <div style="background: linear-gradient(45deg, rgba(108, 99, 255, 0.1), rgba(247, 119, 55, 0.1)); border-radius: 16px; padding: 20px; border: 1px solid rgba(108, 99, 255, 0.3); box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <span style="font-size: 24px; margin-right: 10px;">🎓</span>
-      <div>
-        <span style="font-weight: 700; color: #6C63FF;">EDUCATION:</span> Computer Engineering @ <span style="color: #F77737; font-weight: 600;">SPIT Mumbai</span> [<span style="color: #00C4CC;">CGPA: 9.51/10.0</span>]<br>
-        <span style="font-size: 14px; opacity: 0.8;">+ Finance & Management Minor @ SPJIMR</span>
-      </div>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <span style="font-size: 24px; margin-right: 10px;">🔬</span>
-      <div>
-        <span style="font-weight: 700; color: #6C63FF;">RESEARCH:</span> AI-Based Diabetic Foot Detection System<br>
-        <span style="font-size: 14px; opacity: 0.8;">+ Patent Co-inventor: "PETHUB" [Publication #IN20230137]</span>
-      </div>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <span style="font-size: 24px; margin-right: 10px;">📱</span>
-      <div>
-        <span style="font-weight: 700; color: #6C63FF;">EXPERTISE:</span> Full-Stack Development & Mobile Engineering<br>
-        <span style="font-size: 14px; opacity: 0.8;">+ Flutter, Firebase, React Native, ML/AI Integration</span>
-      </div>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <span style="font-size: 24px; margin-right: 10px;">🏆</span>
-      <div>
-        <span style="font-weight: 700; color: #6C63FF;">VICTORIES:</span> 10x Hackathon Winner<br>
-        <span style="font-size: 14px; opacity: 0.8;">+ Smart India Hackathon 2024 Champion | K! Hacks 2.0 Winner</span>
-      </div>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <span style="font-size: 24px; margin-right: 10px;">🚀</span>
-      <div>
-        <span style="font-weight: 700; color: #6C63FF;">MISSION:</span> Creating Impact in HealthTech, Mental Health & EdTech<br>
-        <span style="font-size: 14px; opacity: 0.8;">+ Building solutions using AI, ML, IoT and Cloud Technologies</span>
-      </div>
-    </div>
+    <!-- ABOUT ME SECTION -->
+  <div align="left" width="55%">
+    <h2>👨‍💻 About Me</h2>
+    <ul>
+      <li>🎓 Computer Engineering @ <b>SPIT Mumbai</b> (CGPA: 9.51/10.0)</li>
+      <li>📊 Finance & Management Minor @ <b>SPJIMR</b></li>
+      <li>🔬 Research Intern working on <b>AI-Based Diabetic Foot Detection</b></li>
+      <li>🏆 10x Hackathon Winner including <b>Smart India Hackathon 2024</b></li>
+      <li>📱 Expert in <b>Flutter, Firebase, React Native</b> and <b>Full-Stack Development</b></li>
+      <li>🧠 Building solutions using <b>AI, ML, IoT</b> and <b>Cloud Technologies</b></li>
+      <li>📄 Co-inventor of a published patent titled <b>"PETHUB"</b></li>
+      <li>🚀 Creating impact in <b>HealthTech, Mental Health, and Education</b></li>
+    </ul>
   </div>
-  
-  <!-- Terminal-style Quote -->
-  <div style="background: rgba(13, 17, 23, 0.8); border-radius: 6px; padding: 12px; margin-top: 15px; border-left: 3px solid #6C63FF; font-family: 'Fira Code', monospace;">
-    <span style="color: #6C63FF;">$</span> <span style="color: #F77737;">echo</span> <span style="color: #00C4CC;">"Transforming ideas
+</div>
 <br clear="both" />
 
 <!-- TECH STACK SECTION -->
