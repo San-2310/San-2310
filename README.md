@@ -275,12 +275,6 @@
 </div>
 <br />
 
-<!-- FOOTER QUOTE -->
-<div align="center">
-  <img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" alt="Developer Quote" />
-</div>
-<br />
-
 <!-- ANIMATED FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F77737&height=120&section=footer" width="100%" alt="Wave Footer" />
