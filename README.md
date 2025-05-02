@@ -27,25 +27,31 @@
 <div>
   <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Most Used Languages" />
   
-  <!-- ABOUT ME SECTION -->
+  <!-- ABOUT ME SECTION WITH FUTURISTIC DESIGN -->
   <div align="left" width="55%">
-    <h2>👨‍💻 About Me</h2>
-    <ul>
-      <li>🎓 Computer Engineering @ <b>SPIT Mumbai</b> (CGPA: 9.51/10.0)</li>
-      <li>📊 Finance & Management Minor @ <b>SPJIMR</b></li>
-      <li>🔬 Research Intern working on <b>AI-Based Diabetic Foot Detection</b></li>
-      <li>🏆 10x Hackathon Winner including <b>Smart India Hackathon 2024</b></li>
-      <li>📱 Expert in <b>Flutter, Firebase, React Native</b> and <b>Full-Stack Development</b></li>
-      <li>🧠 Building solutions using <b>AI, ML, IoT</b> and <b>Cloud Technologies</b></li>
-      <li>📄 Co-inventor of a published patent titled <b>"PETHUB"</b></li>
-      <li>🚀 Creating impact in <b>HealthTech, Mental Health, and Education</b></li>
-    </ul>
+    <h2>👨‍💻 <span style="background: linear-gradient(to right, #6C63FF, #F77737); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">DIGITAL IDENTITY</span></h2>
+    
+    <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; margin-bottom: 15px;">
+      <p><span style="color:#6C63FF">⚡</span> <b>Engineering Excellence</b> @ <span style="color:#F77737">SPIT Mumbai</span> | CGPA: <span style="color:#00C4CC">9.51/10.0</span></p>
+      <p><span style="color:#6C63FF">⚡</span> <b>Strategic Management</b> @ <span style="color:#F77737">SPJIMR</span> | Finance & Management Minor</p>
+    </div>
+    
+    <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; margin-bottom: 15px;">
+      <p><span style="color:#6C63FF">🧠</span> <b>Innovation Architect</b> | Research Intern developing <span style="color:#00C4CC">AI-Based Diabetic Foot Detection</span></p>
+      <p><span style="color:#6C63FF">🏆</span> <b>Hackathon Champion</b> | 10x Winner including <span style="color:#F77737">Smart India Hackathon 2024</span></p>
+      <p><span style="color:#6C63FF">📄</span> <b>Intellectual Property Creator</b> | Co-inventor of <span style="color:#F77737">"PETHUB"</span> patent</p>
+    </div>
+    
+    <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
+      <p><span style="color:#6C63FF">💻</span> <b>Tech Ecosystem</b> | <span style="color:#00C4CC">Flutter</span>, <span style="color:#F77737">Firebase</span>, <span style="color:#6C63FF">React Native</span>, <span style="color:#00C4CC">Full-Stack</span></p>
+      <p><span style="color:#6C63FF">🚀</span> <b>Impact Focus</b> | Creating solutions in <span style="color:#F77737">HealthTech</span>, <span style="color:#00C4CC">Mental Health</span>, <span style="color:#6C63FF">Education</span></p>
+    </div>
   </div>
 </div>
 <br clear="both" />
 
 <!-- TECH STACK SECTION -->
-<h2 align="center">🔧 Technologies & Tools</h2>
+<h2 align="center">🔧 <span style="background: linear-gradient(to right, #6C63FF, #F77737); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">TECHNOLOGY ARSENAL</span></h2>
 <div align="center">
   
   <!-- LANGUAGES -->
@@ -102,31 +108,51 @@
 </div>
 <br />
 
+<!-- LANGUAGE STATS SECTION -->
+<div align="center" style="margin-top: 30px; margin-bottom: 30px; background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
+  <h2 style="font-family: 'JetBrains Mono', monospace;"><span style="background: linear-gradient(to right, #6C63FF, #F77737); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">CODE DISTRIBUTION</span></h2>
+  <div style="margin-top: 20px; margin-bottom: 20px;">
+    <div style="height: 20px; background: linear-gradient(to right, #0175C2 75.76%, #E34F26 75.76% 84.68%, #00599C 84.68% 91.79%, #232F3E 91.79% 97.24%, #F7DF1E 97.24% 98.66%, #3776AB 98.66%); border-radius: 10px;"></div>
+    <div style="display: flex; justify-content: space-around; margin-top: 10px;">
+      <span>🔵 Dart <b>75.76%</b></span>
+      <span>🟠 HTML <b>8.92%</b></span>
+      <span>🟣 C++ <b>7.11%</b></span>
+      <span>⚫ CMake <b>5.45%</b></span>
+      <span>🟡 JavaScript <b>1.42%</b></span>
+      <span>🔷 Python <b>1.34%</b></span>
+    </div>
+  </div>
+</div>
+
 <!-- FEATURED PROJECTS SECTION WITH GLASS CARD EFFECT -->
-<h2 align="center">📌 Featured Projects</h2>
+<h2 align="center"><span style="background: linear-gradient(to right, #6C63FF, #F77737); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📌 INNOVATION PORTFOLIO</span></h2>
 
 <!-- Project Cards - First Row -->
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">HealthWise</h3>
-        <div align="center">
-          <a href="https://github.com/San-2310/HealthWise_" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=HealthWise_&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="HealthWise Project"/>
-          </a>
-          <p><strong>Flutter, Firebase, TensorFlow, Wearable Integration</strong></p>
-          <p>Remote patient monitoring system with real-time health tracking, wearable integration, and AI-powered health insights</p>
+        <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
+          <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #6C63FF;">HealthWise</h3>
+          <div align="center">
+            <a href="https://github.com/San-2310/HealthWise_" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=HealthWise_&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="HealthWise Project"/>
+            </a>
+            <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #FF6F00; background: rgba(255, 111, 0, 0.1); padding: 3px 6px; border-radius: 4px;">TensorFlow</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">Wearable Integration</code></p>
+            <p style="text-align: justify; font-size: 14px;">Remote patient monitoring system with real-time health tracking, wearable integration, and AI-powered health insights</p>
+          </div>
         </div>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">PetHub</h3>
-        <div align="center">
-          <a href="https://github.com/San-2310/PetHub" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=PetHub&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="PetHub Project"/>
-          </a>
-          <p><strong>Flutter, ML, QR Codes, GenAI</strong></p>
-          <p>Integrated pet care platform leveraging ML and GenAI for intelligent healthcare, nutrition tracking, and wellness management</p>
+        <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
+          <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #F77737;">PetHub</h3>
+          <div align="center">
+            <a href="https://github.com/San-2310/PetHub" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=PetHub&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="PetHub Project"/>
+            </a>
+            <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #3776AB; background: rgba(55, 118, 171, 0.1); padding: 3px 6px; border-radius: 4px;">ML</code> <code style="color: #F7DF1E; background: rgba(247, 223, 30, 0.1); padding: 3px 6px; border-radius: 4px;">QR Codes</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">GenAI</code></p>
+            <p style="text-align: justify; font-size: 14px;">Integrated pet care platform leveraging ML and GenAI for intelligent healthcare, nutrition tracking, and wellness management</p>
+          </div>
         </div>
       </td>
     </tr>
@@ -138,23 +164,27 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">Aura</h3>
-        <div align="center">
-          <a href="https://github.com/San-2310/aura" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=aura&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Aura Project"/>
-          </a>
-          <p><strong>Flutter, Behavioral Analytics, ML</strong></p>
-          <p>Mental wellness platform leveraging digital behavior analysis and context-aware AI for proactive mental health intervention</p>
+        <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
+          <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #00C4CC;">Aura</h3>
+          <div align="center">
+            <a href="https://github.com/San-2310/aura" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=aura&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Aura Project"/>
+            </a>
+            <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #F77737; background: rgba(247, 119, 55, 0.1); padding: 3px 6px; border-radius: 4px;">Behavioral Analytics</code> <code style="color: #3776AB; background: rgba(55, 118, 171, 0.1); padding: 3px 6px; border-radius: 4px;">ML</code></p>
+            <p style="text-align: justify; font-size: 14px;">Mental wellness platform leveraging digital behavior analysis and context-aware AI for proactive mental health intervention</p>
+          </div>
         </div>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">NetWealth</h3>
-        <div align="center">
-          <a href="https://github.com/San-2310/netWealth" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=netWealth&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="NetWealth Project"/>
-          </a>
-          <p><strong>React, Firebase, FinTech APIs</strong></p>
-          <p>Specialized networking and collaboration platform for FinTech professionals, startups, and investors with knowledge sharing tools</p>
+        <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
+          <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #6C63FF;">NetWealth</h3>
+          <div align="center">
+            <a href="https://github.com/San-2310/netWealth" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=netWealth&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="NetWealth Project"/>
+            </a>
+            <p><code style="color: #61DAFB; background: rgba(97, 218, 251, 0.1); padding: 3px 6px; border-radius: 4px;">React</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #F7DF1E; background: rgba(247, 223, 30, 0.1); padding: 3px 6px; border-radius: 4px;">FinTech APIs</code></p>
+            <p style="text-align: justify; font-size: 14px;">Specialized networking and collaboration platform for FinTech professionals, startups, and investors with knowledge sharing tools</p>
+          </div>
         </div>
       </td>
     </tr>
@@ -166,23 +196,27 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">EmpowerHer</h3>
-        <div align="center">
-          <a href="https://github.com/San-2310/EmpowerHer" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=EmpowerHer&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="EmpowerHer Project"/>
-          </a>
-          <p><strong>AI, Voice Recognition, Computer Vision</strong></p>
-          <p>AI-first, voice-enabled platform to upskill underprivileged women and connect them to remote job opportunities</p>
+        <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
+          <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #F77737;">EmpowerHer</h3>
+          <div align="center">
+            <a href="https://github.com/San-2310/EmpowerHer" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=EmpowerHer&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="EmpowerHer Project"/>
+            </a>
+            <p><code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">AI</code> <code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Voice Recognition</code> <code style="color: #F77737; background: rgba(247, 119, 55, 0.1); padding: 3px 6px; border-radius: 4px;">Computer Vision</code></p>
+            <p style="text-align: justify; font-size: 14px;">AI-first, voice-enabled platform to upskill underprivileged women and connect them to remote job opportunities</p>
+          </div>
         </div>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">Roomie Radar</h3>
-        <div align="center">
-          <a href="https://github.com/San-2310/roomie_radar" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=roomie_radar&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Roomie Radar Project"/>
-          </a>
-          <p><strong>Flutter, Firebase, Matching Algorithms</strong></p>
-          <p>Platform for college students to find compatible roommates and reliable PG accommodations with campus-specific insights</p>
+        <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
+          <h3 align="center" style="font-family: 'JetBrains Mono', monospace; color: #00C4CC;">Roomie Radar</h3>
+          <div align="center">
+            <a href="https://github.com/San-2310/roomie_radar" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=roomie_radar&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Roomie Radar Project"/>
+            </a>
+            <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">Matching Algorithms</code></p>
+            <p style="text-align: justify; font-size: 14px;">Platform for college students to find compatible roommates and reliable PG accommodations with campus-specific insights</p>
+          </div>
         </div>
       </td>
     </tr>
@@ -191,7 +225,7 @@
 <br />
 
 <!-- GITHUB STATS AND STREAK -->
-<h2 align="center">🔥 GitHub Statistics</h2>
+<h2 align="center"><span style="background: linear-gradient(to right, #6C63FF, #F77737); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🔥 DIGITAL FOOTPRINT</span></h2>
 <div align="center">
   <table>
     <tr>
@@ -219,43 +253,41 @@
 <br />
 
 <!-- ACHIEVEMENTS SECTION -->
-<h2 align="center">🏆 Achievements</h2>
-<div align="center">
+<h2 align="center"><span style="background: linear-gradient(to right, #6C63FF, #F77737); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🏆 ACHIEVEMENT MATRIX</span></h2>
+<div align="center" style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; margin-bottom: 20px;">
   <!-- TROPHY SHOWCASE -->
   <img src="https://github-profile-trophy.vercel.app/?username=San-2310&theme=algolia&no-frame=true&no-bg=true&column=7" alt="Trophy Display" width="100%" />
 </div>
 <div align="center">
   <details>
-    <summary><b>Click to View My Hackathon Victories 🚀</b></summary>
+    <summary style="cursor: pointer; font-family: 'JetBrains Mono', monospace; color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 10px 20px; border-radius: 8px; display: inline-block; margin-bottom: 10px;"><b>🚀 EXPLORE HACKATHON VICTORIES</b></summary>
     <br />
-    <table>
-      <tr>
-        <td>🥇 Smart India Hackathon 2024 - National Winner</td>
-        <td>🥇 K! Hacks 2.0 - 1st Place (Anna University)</td>
+    <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px;">
+      <table>
+        <tr>
+          <td style="padding: 10px; border-radius: 8px; background: rgba(108, 99, 255, 0.1);">🥇 <b>Smart India Hackathon 2024</b> - National Winner</td>
+          <td style="padding: 10px; border-radius: 8px; background: rgba(247, 119, 55, 0.1);">🥇 <b>K! Hacks 2.0</b> - 1st Place (Anna University)</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px; border-radius: 8px; background: rgba(108, 99, 255, 0.1);">🥇 <b>Hacknovare</b> - 1st Place (IIEST Shibpur)</td>
+          <td style="padding: 10px; border-radius: 8px; background: rgba(247, 119, 55, 0.1);">🥇 <b>Hackaurora</b> - 1st Place (VJTI)</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px; border-radius: 8px; background: rgba(108, 99, 255, 0.1);">🥈 <b>M#</b> - 2nd Place (MIT Manipal)</td>
+          <td style="padding: 10px; border-radius: 8px; background: rgba(247, 119, 55, 0.1);">🥈 <b>Odoo x AML</b> - 2nd Place (IIT Gandhinagar)</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px; border-radius: 8px; background: rgba(108, 99, 255, 0.1);">🥈 <b>Lean In Hacks</b> - 2nd Place (IGDTUW)</td>
+          <td style="padding: 10px; border-radius: 8px; background: rgba(108, 99, 255, 0.1);">🥉 Hackathon - 3rd Place (IIT Guwahati)</td>
       </tr>
       <tr>
-        <td>🥇 Hacknovare - 1st Place (IIEST Shibpur)</td>
-        <td>🥇 Hackaurora - 1st Place (VJTI)</td>
-      </tr>
-      <tr>
-        <td>🥈 M# - 2nd Place (MIT Manipal)</td>
-        <td>🥈 Odoo x AML - 2nd Place (IIT Gandhinagar)</td>
-      </tr>
-      <tr>
-        <td>🥈 Lean In Hacks - 2nd Place (IGDTUW)</td>
-        <td>🥉 Hackathon - 3rd Place (IIT Guwahati)</td>
-      </tr>
-      <tr>
-        <td>🏅 Track Win - Quasar 3.0 (VPPCOE)</td>
-        <td>🏅 Track Win - AIravat 2.0 (SPIT)</td>
+         <td style="padding: 10px; border-radius: 8px; background: rgba(108, 99, 255, 0.1);">🏅 Track Win - Quasar 3.0 (VPPCOE)</td>
+         <td style="padding: 10px; border-radius: 8px; background: rgba(108, 99, 255, 0.1);">🏅 Track Win - AIravat 2.0 (SPIT)</td>
       </tr>
     </table>
   </details>
 </div>
 <br />
-
-<!-- CURRENT FOCUS SECTION -->
-
 
 <!-- CONNECT WITH ME SECTION -->
 <h2 align="center">📫 Connect With Me</h2>
