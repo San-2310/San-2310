@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F77737&height=200&section=header&text=Sanjeev%20Ratnani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Hackathon%20Champion%20|%20AI%20Innovator&descAlignY=60&descAlign=50" width="100%" alt="Sanjeev Ratnani"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F77737&height=200&section=header&text=Sanjeev%20Ratnani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Expert%20|%20AI%20Innovator%20|%20Patent%20Holder&descAlignY=60&descAlign=50" width="100%" alt="Sanjeev Ratnani"/>
 </div>
 
 <!-- ANIMATED GREETING -->
@@ -21,7 +21,7 @@
 
 <!-- FLOATING TECH CARDS -->
 <div align="center">
-  <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
+  <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Most Used Languages" />
   
   <!-- ABOUT ME SECTION -->
   <div align="left" width="55%">
@@ -62,6 +62,7 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -104,38 +105,91 @@
 <h2 align="center">📌 Featured Projects</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Healthwise</h3>
-        <div align="center">
-          <a href="https://github.com/San-2310/healthwise-rpms" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=healthwise-rpms&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Healthwise Project"/>
-          </a>
-          <p><strong>Flutter, Firebase, TensorFlow, Wearable Integration</strong></p>
-          <p>Remote patient monitoring system with real-time health tracking, wearable integration, and AI-powered health insights</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Dhara</h3>
-        <div align="center">
-          <a href="https://github.com/San-2310/dhara-iot" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=dhara-iot&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Dhara Project"/>
-          </a>
-          <p><strong>Flutter, Firebase, IoT, Hive</strong></p>
-          <p>Coal mine safety platform with IoT sensor integration, offline data storage, and multi-lingual support for low-connectivity environments</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+    <!-- HealthWise -->
+    <div style="background: rgba(13, 17, 23, 0.3); border-radius: 10px; padding: 15px; backdrop-filter: blur(5px);">
+      <h3 align="center">HealthWise</h3>
+      <div align="center">
+        <a href="https://github.com/San-2310/HealthWise_" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=HealthWise_&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="HealthWise Project"/>
+        </a>
+        <p><strong>Flutter, Firebase, TensorFlow, Wearable Integration</strong></p>
+        <p>Remote patient monitoring system with real-time health tracking, wearable integration, and AI-powered health insights</p>
+      </div>
+    </div>
+    
+    <!-- PetHub -->
+    <div style="background: rgba(13, 17, 23, 0.3); border-radius: 10px; padding: 15px; backdrop-filter: blur(5px);">
+      <h3 align="center">PetHub</h3>
+      <div align="center">
+        <a href="https://github.com/San-2310/PetHub" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=PetHub&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="PetHub Project"/>
+        </a>
+        <p><strong>Flutter, ML, QR Codes, GenAI</strong></p>
+        <p>Integrated pet care platform leveraging ML and GenAI for intelligent healthcare, nutrition tracking, and wellness management</p>
+      </div>
+    </div>
+    
+    <!-- Aura -->
+    <div style="background: rgba(13, 17, 23, 0.3); border-radius: 10px; padding: 15px; backdrop-filter: blur(5px);">
+      <h3 align="center">Aura</h3>
+      <div align="center">
+        <a href="https://github.com/San-2310/aura" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=aura&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Aura Project"/>
+        </a>
+        <p><strong>Flutter, Behavioral Analytics, ML</strong></p>
+        <p>Mental wellness platform leveraging digital behavior analysis and context-aware AI for proactive mental health intervention</p>
+      </div>
+    </div>
+    
+    <!-- NetWealth -->
+    <div style="background: rgba(13, 17, 23, 0.3); border-radius: 10px; padding: 15px; backdrop-filter: blur(5px);">
+      <h3 align="center">NetWealth</h3>
+      <div align="center">
+        <a href="https://github.com/San-2310/netWealth" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=netWealth&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="NetWealth Project"/>
+        </a>
+        <p><strong>React, Firebase, FinTech APIs</strong></p>
+        <p>Specialized networking and collaboration platform for FinTech professionals, startups, and investors with knowledge sharing tools</p>
+      </div>
+    </div>
+  </div>
+  
+  <div style="margin-top: 20px; display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+    <!-- EmpowerHer -->
+    <div style="background: rgba(13, 17, 23, 0.3); border-radius: 10px; padding: 15px; backdrop-filter: blur(5px);">
+      <h3 align="center">EmpowerHer</h3>
+      <div align="center">
+        <a href="https://github.com/San-2310/EmpowerHer" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=EmpowerHer&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="EmpowerHer Project"/>
+        </a>
+        <p><strong>AI, Voice Recognition, Computer Vision</strong></p>
+        <p>AI-first, voice-enabled platform to upskill underprivileged women and connect them to remote job opportunities</p>
+      </div>
+    </div>
+    
+    <!-- Roomie Radar -->
+    <div style="background: rgba(13, 17, 23, 0.3); border-radius: 10px; padding: 15px; backdrop-filter: blur(5px);">
+      <h3 align="center">Roomie Radar</h3>
+      <div align="center">
+        <a href="https://github.com/San-2310/roomie_radar" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=roomie_radar&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Roomie Radar Project"/>
+        </a>
+        <p><strong>Flutter, Firebase, Matching Algorithms</strong></p>
+        <p>Platform for college students to find compatible roommates and reliable PG accommodations with campus-specific insights</p>
+      </div>
+    </div>
+  </div>
 </div>
+
+<br />
 
 <!-- GITHUB STATS AND STREAK -->
 <h2 align="center">🔥 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=San-2310&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sanjeev's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=San-2310&theme=tokyonight&hide_border=true&background=0D1117" alt="Sanjeev's GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=San-2310&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Sanjeev's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=San-2310&theme=tokyonight&hide_border=true&background=0D1117&include_all_commits=true&count_private=true" alt="Sanjeev's GitHub Streak" />
 </div>
 
 <br />
@@ -143,6 +197,13 @@
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=San-2310&bg_color=0D1117&color=5BCDEC&line=6C63FF&point=F77737&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br />
+
+<!-- CONTRIBUTION CALENDAR -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=San-2310&theme=tokyonight" width="100%" alt="Contribution Calendar" />
 </div>
 
 <br />
@@ -210,16 +271,13 @@
   <a href="https://github.com/San-2310">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/SanjeevRatnani">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
 </div>
 
 <br />
 
 <!-- FOOTER QUOTE -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" alt="Developer Quote" />
 </div>
 
 <br />
@@ -235,12 +293,12 @@
     <img src="https://img.shields.io/badge/HealthTech_Innovator-6C63FF?style=for-the-badge" alt="HealthTech Innovator" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Hackathon_Champion-F77737?style=for-the-badge" alt="Hackathon Champion" />
+    <img src="https://img.shields.io/badge/Digital_Maestro-F77737?style=for-the-badge" alt="Digital Maestro" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Patent_Holder-00C4CC?style=for-the-badge" alt="Patent Holder" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Mobile_Expert-6C63FF?style=for-the-badge" alt="Mobile Expert" />
+    <img src="https://img.shields.io/badge/Code_Architect-6C63FF?style=for-the-badge" alt="Code Architect" />
   </a>
 </div>
