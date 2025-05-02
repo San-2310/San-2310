@@ -24,6 +24,7 @@
 <br />
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="display: flex; justify-content: space-between;">
+ <div style="display: flex; align-items: flex-start;">
   <!-- FANCY ABOUT ME SECTION -->
   <div align="left" style="flex: 1; width: 50%;">
     <h2 style="font-family: 'JetBrains Mono', monospace; color: #F77737;">🚀 About Me</h2>
@@ -68,11 +69,11 @@
   </div>
 
   <!-- Image Container on the Right -->
-  <div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; width: 38%;">
-    <img width="40%" 
+  <div style="display: flex; flex-direction: column; align-items: flex-start; width: 38%; margin-left: 20px;">
+    <img width="100%" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
          alt="Most Used Languages" />
-    <img width="40%" src="/glitch-crypto.gif" alt="Tech Avatar" style="border-radius: 50%; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+    <img width="100%" src="/glitch-crypto.gif" alt="Tech Avatar" style="border-radius: 50%; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
   </div>
 </div>
 <br clear="both" />
