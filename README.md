@@ -30,20 +30,26 @@
 <img align="right" width="38%" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
      alt="Most Used Languages" />
-    <!-- ABOUT ME SECTION -->
-  <div align="left" width="55%">
-    <h2>👨‍💻 About Me</h2>
+  <!-- FANCY ABOUT ME SECTION -->
+<div align="left" width="55%">
+  <h2 style="font-family: 'JetBrains Mono', monospace; color: #F77737;">🚀 About Me</h2>
+  <div style="background: rgba(13, 17, 23, 0.7); border-radius: 16px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.1); font-size: 16px; line-height: 1.6;">
     <ul>
-      <li>🎓 Computer Engineering @ <b>SPIT Mumbai</b> (CGPA: 9.51/10.0)</li>
-      <li>📊 Finance & Management Minor @ <b>SPJIMR</b></li>
-      <li>🔬 Research Intern working on <b>AI-Based Diabetic Foot Detection</b></li>
-      <li>🏆 10x Hackathon Winner including <b>Smart India Hackathon 2024</b></li>
-      <li>📱 Expert in <b>Flutter, Firebase, React Native</b> and <b>Full-Stack Development</b></li>
-      <li>🧠 Building solutions using <b>AI, ML, IoT</b> and <b>Cloud Technologies</b></li>
-      <li>📄 Co-inventor of a published patent titled <b>"PETHUB"</b></li>
-      <li>🚀 Creating impact in <b>HealthTech, Mental Health, and Education</b></li>
+      <li> <b>Computer Engineering</b> @ <b>SPIT Mumbai</b> <code style="color:#6C63FF;">(CGPA: 9.51/10)</code></li>
+      <li> Minor in <b>Finance & Management</b> from <b>SPJIMR</b></li>
+      <li> <b>Research Intern</b> - AI-based Diabetic Foot Detection | SPIT x KEM Hospital</li>
+      <li> <b>Lead Developer</b> – AI Productivity App for Students | Focus Engine, Video Analytics, Distraction Tracker</li>
+      <li> <b>Tech Intern</b> @ NKCCA – LMS Platform with Flutter + Firebase + AWS IVS</li>
+      <li> <b>Developer Intern</b> @ Sattvastha.AI – Mental Health App with adaptive UX + Firebase architecture</li>
+      <li> <b>Freelancer</b> – Labor Market App | Multilingual, Geo-Matching, Reputation System</li>
+      <li> <b>10x Hackathon Winner</b> incl. <code style="color:#F77737;">Smart India Hackathon 2024</code> + K! Hacks, Hacknovare, Odoo x AML</li>
+      <li> <b>Patent Holder</b> – “PETHUB: Integrated Pet Care System” <code style="color:#00C4CC;">(Published Jan 2025)</code></li>
+      <li> <b>Full-Stack Specialist</b> in <code style="color:#6C63FF;">Flutter</code>, <code style="color:#FFCA28;">Firebase</code>, <code style="color:#00C4CC;">React Native</code>, <code style="color:#FF5733;">Node.js</code>, and <code style="color:#4EA94B;">MongoDB</code></li>
+      <li> Passionate about <b>HealthTech</b>, <b>Behavioral AI</b>, and <b>Social Impact</b> through <code>Tech × Innovation</code></li>
     </ul>
   </div>
+</div>
+
 </div>
 <br clear="both" />
 
