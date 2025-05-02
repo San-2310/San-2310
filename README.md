@@ -69,10 +69,10 @@
 
   <!-- Image Container on the Right -->
   <div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; width: 38%;">
-    <img width="100%" 
+    <img width="40%" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
          alt="Most Used Languages" />
-    <img width="100%" src="/glitch-crypto.gif" alt="Tech Avatar" style="border-radius: 50%; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+    <img width="40%" src="/glitch-crypto.gif" alt="Tech Avatar" style="border-radius: 50%; border: 2px solid #6C63FF; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
   </div>
 </div>
 <br clear="both" />
