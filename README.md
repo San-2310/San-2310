@@ -256,7 +256,7 @@
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=San-2310&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Sanjeev's GitHub Stats" />
       </td>
       <td width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=San-2310&theme=tokyonight&hide_border=true&background=0D1117&include_all_commits=true&count_private=true" alt="Sanjeev's GitHub Streak" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=San-2310&theme=tokyonight&hide_border=true&background=0D1117&include_all_commits=true" alt="Sanjeev's GitHub Streak" />
       </td>
     </tr>
   </table>
