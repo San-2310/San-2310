@@ -162,7 +162,7 @@
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=HealthWise_&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="HealthWise Project"/>
             </a>
             <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #FF6F00; background: rgba(255, 111, 0, 0.1); padding: 3px 6px; border-radius: 4px;">TensorFlow</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">Wearable Integration</code></p>
-            <p style="text-align: justify; font-size: 14px;">Remote patient monitoring system with real-time health tracking, wearable integration, and AI-powered health insights</p>
+<!--             <p style="text-align: justify; font-size: 14px;">Remote patient monitoring system with real-time health tracking, wearable integration, and AI-powered health insights</p> -->
           </div>
         </div>
       </td>
@@ -174,7 +174,7 @@
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=PetHub&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="PetHub Project"/>
             </a>
             <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #3776AB; background: rgba(55, 118, 171, 0.1); padding: 3px 6px; border-radius: 4px;">ML</code> <code style="color: #F7DF1E; background: rgba(247, 223, 30, 0.1); padding: 3px 6px; border-radius: 4px;">QR Codes</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">GenAI</code></p>
-            <p style="text-align: justify; font-size: 14px;">Integrated pet care platform leveraging ML and GenAI for intelligent healthcare, nutrition tracking, and wellness management</p>
+<!--             <p style="text-align: justify; font-size: 14px;">Integrated pet care platform leveraging ML and GenAI for intelligent healthcare, nutrition tracking, and wellness management</p> -->
           </div>
         </div>
       </td>
@@ -194,7 +194,7 @@
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=aura&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Aura Project"/>
             </a>
             <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #F77737; background: rgba(247, 119, 55, 0.1); padding: 3px 6px; border-radius: 4px;">Behavioral Analytics</code> <code style="color: #3776AB; background: rgba(55, 118, 171, 0.1); padding: 3px 6px; border-radius: 4px;">ML</code></p>
-            <p style="text-align: justify; font-size: 14px;">Mental wellness platform leveraging digital behavior analysis and context-aware AI for proactive mental health intervention</p>
+<!--             <p style="text-align: justify; font-size: 14px;">Mental wellness platform leveraging digital behavior analysis and context-aware AI for proactive mental health intervention</p> -->
           </div>
         </div>
       </td>
@@ -206,7 +206,7 @@
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=netWealth&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="NetWealth Project"/>
             </a>
             <p><code style="color: #61DAFB; background: rgba(97, 218, 251, 0.1); padding: 3px 6px; border-radius: 4px;">React</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #F7DF1E; background: rgba(247, 223, 30, 0.1); padding: 3px 6px; border-radius: 4px;">FinTech APIs</code></p>
-            <p style="text-align: justify; font-size: 14px;">Specialized networking and collaboration platform for FinTech professionals, startups, and investors with knowledge sharing tools</p>
+<!--             <p style="text-align: justify; font-size: 14px;">Specialized networking and collaboration platform for FinTech professionals, startups, and investors with knowledge sharing tools</p> -->
           </div>
         </div>
       </td>
@@ -226,8 +226,8 @@
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=EmpowerHer&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="EmpowerHer Project"/>
             </a>
             <p><code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">AI</code> <code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Voice Recognition</code> <code style="color: #F77737; background: rgba(247, 119, 55, 0.1); padding: 3px 6px; border-radius: 4px;">Computer Vision</code></p>
-            <p style="text-align: justify; font-size: 14px;">AI-first, voice-enabled platform to upskill underprivileged women and connect them to remote job opportunities</p>
-          </div>
+<!--             <p style="text-align: justify; font-size: 14px;">AI-first, voice-enabled platform to upskill underprivileged women and connect them to remote job opportunities</p>  -->
+          </div> 
         </div>
       </td>
       <td width="50%" valign="top">
@@ -238,7 +238,7 @@
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=roomie_radar&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Roomie Radar Project"/>
             </a>
             <p><code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">Matching Algorithms</code></p>
-            <p style="text-align: justify; font-size: 14px;">Platform for college students to find compatible roommates and reliable PG accommodations with campus-specific insights</p>
+<!--             <p style="text-align: justify; font-size: 14px;">Platform for college students to find compatible roommates and reliable PG accommodations with campus-specific insights</p> -->
           </div>
         </div>
       </td>
