@@ -11,8 +11,11 @@
 </h1>
 
 <div align="center">
-    <img src="/grid-snake.svg" alt="Sanjeev Ratnani"
-         style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/San-2310/San-2310/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/San-2310/San-2310/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
 </div>
 
 <div align="center">
