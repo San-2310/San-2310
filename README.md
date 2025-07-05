@@ -208,7 +208,7 @@
             <a href="https://github.com/San-2310/netWealth" target="_blank">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=netWealth&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="NetWealth Project"/>
             </a>
-            <p><code style="color: #61DAFB; background: rgba(97, 218, 251, 0.1); padding: 3px 6px; border-radius: 4px;">React</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #F7DF1E; background: rgba(247, 223, 30, 0.1); padding: 3px 6px; border-radius: 4px;">FinTech APIs</code></p>
+            <p><code style="color: #61DAFB; background: rgba(97, 218, 251, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #FFCA28; background: rgba(255, 202, 40, 0.1); padding: 3px 6px; border-radius: 4px;">Firebase</code> <code style="color: #F7DF1E; background: rgba(247, 223, 30, 0.1); padding: 3px 6px; border-radius: 4px;">FinTech APIs</code></p>
 <!--             <p style="text-align: justify; font-size: 14px;">Specialized networking and collaboration platform for FinTech professionals, startups, and investors with knowledge sharing tools</p> -->
           </div>
         </div>
@@ -228,7 +228,7 @@
             <a href="https://github.com/San-2310/EmpowerHer" target="_blank">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=San-2310&repo=EmpowerHer&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="EmpowerHer Project"/>
             </a>
-            <p><code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">AI</code> <code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Voice Recognition</code> <code style="color: #F77737; background: rgba(247, 119, 55, 0.1); padding: 3px 6px; border-radius: 4px;">Computer Vision</code></p>
+            <p><code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">Flutter</code> <code style="color: #6C63FF; background: rgba(108, 99, 255, 0.1); padding: 3px 6px; border-radius: 4px;">AI</code> <code style="color: #00C4CC; background: rgba(0, 196, 204, 0.1); padding: 3px 6px; border-radius: 4px;">Voice Recognition</code> <code style="color: #F77737; background: rgba(247, 119, 55, 0.1); padding: 3px 6px; border-radius: 4px;">Computer Vision</code></p>
 <!--             <p style="text-align: justify; font-size: 14px;">AI-first, voice-enabled platform to upskill underprivileged women and connect them to remote job opportunities</p>  -->
           </div> 
         </div>
