@@ -50,7 +50,7 @@
         </div>
         <div><b> Achievements:</b><br/>
           <ul style="margin-left: -20px; padding-left: 20px;">
-            <li><b>10x Hackathon Winner</b> incl. <code style="color:#F77737;">Smart India Hackathon 2024</code></li>
+            <li><b>12x Hackathon Winner</b> incl. <code style="color:#F77737;">Smart India Hackathon 2024</code></li>
             <li><b>Patent Holder</b> – "PETHUB: Integrated Pet Care System" <code style="color:#00C4CC;">(Published Jan 2025)</code></li>
           </ul>
         </div>
