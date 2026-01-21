@@ -32,20 +32,22 @@
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h2 style="font-family: 'JetBrains Mono', monospace; color: #F77737;">🚀 About Me</h2>
+      <h2 style="font-family: 'JetBrains Mono', monospace; color: #F77737;">About Me</h2>
       <div style="display: flex; flex-direction: column; gap: 16px; background: rgba(13, 17, 23, 0.7); border-radius: 16px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.1); font-size: 15px; line-height: 1.8;">
         <div><b> Education:</b><br/>
-          <span style="color:#CCCCCC;">Computer Engineering @ <b>SPIT Mumbai</b> <code style="color:#6C63FF;">(CGPA: 9.51/10)</code><br/>
+          <span style="color:#CCCCCC;">Computer Engineering @ <b>SPIT Mumbai</b> <code style="color:#6C63FF;">(CGPA: 9.33/10)</code><br/>
           Minor in Finance & Management @ <b>SPJIMR</b></span>
         </div>
         <br />
         <div><b> Professional Experience:</b><br/>
           <ul style="margin-left: -20px; padding-left: 20px;">
-            <li><b>Lead Developer</b> – AI Productivity App (Focus Engine, Attention Analytics)</li>
-            <li><b> Research Intern</b> – AI-based Diabetic Foot Detection (SPIT x KEM Hospitals)</li>
-            <li><b>Tech Intern</b> @ NKCCA – LMS using Flutter + Firebase + AWS IVS</li>
-            <li><b>Developer Intern</b> @ Sattvastha.AI – Mental Health LLM</li>
-            <li><b>Freelancer</b> – Labor Market App (Multilingual + Geo-Matching)</li>
+            <li><b>Technical Intern</b> @ HSBC (Winter Intern) - Java, Springboot </li>
+            <li><b>App Developer Intern</b> @ Russell Investments (Summer Intern) - .Net Core, Raect, Python </li>
+            <li><b>Lead Developer Intern</b> – AI Productivity App (Focus Engine, Attention Analytics) </li>
+            <li><b> Research Intern</b> – AI-based Diabetic Foot Detection (SPIT x KEM Hospitals) </li>
+            <li><b>Tech Intern</b> @ NKCCA – LMS using Flutter + Firebase + AWS IVS </li>
+            <li><b>Developer Intern</b> @ Sattvastha.AI – Mental Health LLM </li>
+            <li><b>Freelancer</b> – Labor Market App (Multilingual + Geo-Matching) </li>
           </ul>
         </div>
         <div><b> Achievements:</b><br/>
