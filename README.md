@@ -1,12 +1,12 @@
 <!-- BANNER IMAGE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F77737&height=200&section=header&text=Sanjeev%20Ratnani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Expert%20|%20AI%20Innovator%20|%20Patent%20Holder&descAlignY=60&descAlign=50" width="100%" alt="Sanjeev Ratnani"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F77737&height=200&section=header&text=Sanjeev%20Ratnani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20DEveloper%20|%20AI%20Innovator%20|%20Patent%20Holder&descAlignY=60&descAlign=50" width="100%" alt="Sanjeev Ratnani"/>
 </div>
 
 <!-- ANIMATED GREETING -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Sanjeev;Mobile+%26+AI+Developer;10x+Hackathon+Winner;HealthTech+Innovator;Patent+Holder;EdTech+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Sanjeev;Full+Stack+%26+Gen+AI+Developer;12x+Hackathon+Winner;HealthTech+Innovator;Patent+Holder;EdTech+Innovator" alt="Typing SVG" />
   </a>
 </h1>
 
