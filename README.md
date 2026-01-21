@@ -42,7 +42,7 @@
         <div><b> Professional Experience:</b><br/>
           <ul style="margin-left: -20px; padding-left: 20px;">
             <li><b>Technical Intern</b> @ HSBC (Winter Intern) - Java, Springboot </li>
-            <li><b>App Developer Intern</b> @ Russell Investments (Summer Intern) - .Net Core, Raect, Python </li>
+            <li><b>App Developer Intern</b> @ Russell Investments (Summer Intern) - .Net Core, React, Python </li>
             <li><b>Lead Developer Intern</b> – AI Productivity App (Focus Engine, Attention Analytics) </li>
             <li><b> Research Intern</b> – AI-based Diabetic Foot Detection (SPIT x KEM Hospitals) </li>
             <li><b>Tech Intern</b> @ NKCCA – LMS using Flutter + Firebase + AWS IVS </li>
